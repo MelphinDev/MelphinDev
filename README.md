@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/logicstick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="logicstick" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20109839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20109839" height="30" width="40" /></a>
 <a href="https://ideogram.ai/u/logicstick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/MelphinDev/MelphinDev/main/img/ideogram-logo.png" alt="logicstick" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/%ED%95%98%EC%A7%84-%EA%B9%80-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/MelphinDev/MelphinDev/main/img/quora-logo.png" alt="하진-김-13" height="30" width="40" /></a>
 <a href="https://dev.to/melphindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="melphindev" height="30" width="40" /></a>
